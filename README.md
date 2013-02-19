@@ -26,29 +26,29 @@ The data set is found in the file data/finegrained.txt
 The file is in plain unicode (utf-8) text format with *nix line breaks.
 
 Reviews are separated by a blank line.
-Each review starts with a header containing document id, domain and star rating:
-DOCID
+Each review starts with a header containing document id, domain and star rating:  
+DOCID  
 DOMAIN	#STARS
 
 Then follows the sentence-split review content, one sentence per line.
 Each line consists of two columns containing the sentence sentiment label and
-the actual content of the sentence in raw format, that is without tokenization:
-LABEL1	CONTENT1
-LABEL2	CONTENT2
+the actual content of the sentence in raw format, that is without tokenization:  
+LABEL1	CONTENT1  
+LABEL2	CONTENT2  
 ...
 
 References
 ----------
 The data set has been used for the following publications (please cite [1]):
 
-[1] Oscar Täckström and Ryan McDonald (2011).
-Discovering fine-grained sentiment with latent variable structured prediction models.
+[1] Oscar Täckström and Ryan McDonald (2011).  
+Discovering fine-grained sentiment with latent variable structured prediction models.  
 European Conference on Information Retrieval (ECIR 2011), Dublin, UK.
 
-[2] Oscar Täckström and Ryan McDonald (2011).
-Discovering fine-grained sentiment with latent variable structured prediction models.
+[2] Oscar Täckström and Ryan McDonald (2011).  
+Discovering fine-grained sentiment with latent variable structured prediction models.  
 Technical Report T2011:02, Swedish Institute of Computer Science (SICS), Kista, Sweden.
 
-[3] Oscar Täckström and Ryan McDonald (2011).
-Semi-supervised latent variable models for sentence-level sentiment analysis.
+[3] Oscar Täckström and Ryan McDonald (2011).  
+Semi-supervised latent variable models for sentence-level sentiment analysis.  
 The Association for Computational Linguistics: Human Language Technologies (ACL-HLT), Portland, OR, USA.
