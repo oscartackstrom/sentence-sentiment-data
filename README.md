@@ -13,7 +13,7 @@ The data set can be freely used for any friendly purpose, but please cite [1]
 if you use it for any of your publications.
 
 Any comments and suggestions are welcome by e-mail to
-Oscar Täckström (oscar@sics.se)!
+Oscar Täckström (oscart@google.com)!
 
 Downloads
 ---------
